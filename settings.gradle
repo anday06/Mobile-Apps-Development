@@ -1,0 +1,2 @@
+rootProject.name = "WD1113_Mobile Apps Development"
+include ':app'
